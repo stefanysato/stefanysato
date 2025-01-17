@@ -1,7 +1,7 @@
-### hi. 🙂
+### hi! 🙂
 
 #### i'm a software development student.
 
-- `html`, `css`, `javascript` and `react` are the technologies i'm most acquainted with;
-- currently learning: `php`;
-- what i'll learn next, at some point: `node.js`, `sql`, `java` and `python`.
+- some technologies i'm familiar with are: `html`, `css`, `javascript`, `react`, `angular`, `python`;
+- currently learning: `java`, `MySQL`;
+- 🚧 building my portfolio
